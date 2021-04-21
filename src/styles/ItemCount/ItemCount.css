@@ -1,0 +1,149 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+
+/*CSS PARA ITEMCOUNT EN ITEM*/
+
+.itemcount-sinstock {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.itemcount-contador {
+  display: flex;
+  justify-content: center;
+}
+
+.contador {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.btn-up, .btn-down{
+  width: 25px;
+  height: 35px;
+  font-size: 12px;
+  padding: 0px;
+  border-radius: 0;
+  border-color: #CED4DA;
+}
+
+.btn-down {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.btn-up:disabled, .btn-down:disabled {
+  border-color: #CED4DA;
+}
+
+.btn-up:hover, .btn-down:hover {
+  border-color: #CED4DA;
+}
+
+.contador-input {
+  width: 45px;
+  height: 35px;
+  text-align: center;
+  border-radius: 0;
+}
+
+.btn-add {
+  font-size: 14px;
+  height: 35px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.btn-add:hover {
+  transition: 0.6s;
+}
+
+.btn-add-icon {
+  font-size: 15px;
+}
+
+.btn-add-text {
+  padding-left: 6px;
+}
+
+
+/*CSS PARA ITEMCOUNT EN ITEMDETAIL*/
+.itemcount-sinstock-detail {
+  font-size: 30px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.itemcount-contador-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contador-detail {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.btn-up-detail, .btn-down-detail {
+width: 50px;
+height: 60px;
+font-size: 30px;
+padding: 0px;
+border-radius: 0;
+border-color: #CED4DA;
+}
+
+.btn-up-detail {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.btn-down-detail {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.btn-up-detail:disabled, .btn-down-detail:disabled {
+  border-color: #CED4DA;
+}
+
+.btn-up-detail:hover, .btn-down-detail:hover {
+  border-color: #CED4DA;
+}
+
+.contador-input-detail {
+  width: 100px;
+  height: 60px;
+  font-size: 35px;
+  text-align: center;
+  border-radius: 0;
+}
+
+.btn-add-detail {
+  font-size: 24px;
+  width: 60%;
+  height: 60px;
+}
+
+.btn-add-detail:hover {
+  transition: 0.6s;
+}
+
+.btn-add-icon-detail {
+  font-size: 30px;
+}
+
+.btn-add-text-detail {
+  padding-left: 10px;
+}

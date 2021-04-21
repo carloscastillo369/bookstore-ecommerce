@@ -1,0 +1,33 @@
+.formulario {
+    width: 500px;
+    background: #e9eeee;
+    padding: 30px 50px;
+    margin-top: 20px;
+}
+
+.formulario-title {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.input-group-text {
+    background-color: #cadbdb;
+}
+
+.register-form-input {
+    width: 300px !important;
+}
+
+.formulario-btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.formulario-btn-submit {
+    width: 80%;
+}
+
+.form-check-label {
+    font-size: .875em;
+}

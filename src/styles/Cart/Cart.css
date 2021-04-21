@@ -1,0 +1,22 @@
+.cart {
+    margin-top: 81px;
+    min-height: calc(100vh - 223px);
+    padding: 30px 0px;
+}
+
+.cart-title {
+    text-align: left;
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+
+.cart-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.cart-btn-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 40px;
+}

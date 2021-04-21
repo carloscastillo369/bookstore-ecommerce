@@ -1,0 +1,15 @@
+.orden-date {
+    font-size: 15px;
+    margin-bottom: 40px;
+    text-align: right;
+}
+
+.orden-total-text {
+    text-align: right;
+}
+
+.orden-total-pay {
+    text-align: right;
+    display: block;
+    padding: 0px 30px;
+}

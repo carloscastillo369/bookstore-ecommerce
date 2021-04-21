@@ -1,0 +1,5 @@
+.orden-cantidad, .orden-price, .orden-subtotal {
+    text-align: right;
+    display: block;
+    padding: 0px 30px;
+}

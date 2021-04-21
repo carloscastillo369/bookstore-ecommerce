@@ -1,0 +1,31 @@
+.payment-form-container {
+    padding: 30px;
+    border-radius: 10px;
+    background: #adabab26;
+    height: 300px;
+}
+
+.payment-form-input {
+    height: 38px !important;
+}
+
+.payment-personal-data {
+    font-size: 26px;
+    margin-bottom: 18px;
+}
+
+.payment-form-title {
+    font-size: 15px;
+    margin-bottom: 12px;
+}
+
+.payment-btn-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.payment-btn {
+    font-size: 30px;
+    width: 220px;
+    height: 60px;
+}

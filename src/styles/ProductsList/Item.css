@@ -1,0 +1,37 @@
+.item-card:hover {
+    box-shadow: 0px 0px 10px 5px #00000026;
+    transition: 0.4s;
+}
+
+.item-link-image {
+    text-align: center;
+}
+
+.item-card-image {
+    width: 110px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.item-card-brand {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.item-card-title {
+    font-size: 15px;
+    height: 40px;
+}
+
+.item-card-price {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.item-card-stock {
+    font-size: 15px;
+    padding-bottom: 10px;
+}

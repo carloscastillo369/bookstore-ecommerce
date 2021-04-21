@@ -1,0 +1,5 @@
+.payment-container {
+    margin-top: 81px;
+    min-height: calc(100vh - 223px);
+    padding: 40px;
+}

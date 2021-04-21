@@ -1,0 +1,21 @@
+.footer {
+    min-height: 135px;
+    padding: 20px 20px;
+    background: rgb(24, 23, 23);
+    color: #ffffff;
+}
+
+.footer-logo {
+    width: 180px;
+}
+
+.footer-title-headers {
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+.footer-subtitle-text {
+    font-size: 14px;
+    margin-bottom: 6px;
+    margin-left: 25px;
+}

@@ -1,0 +1,45 @@
+.orden {
+    width: 100%;
+    padding-top: 20px;
+} 
+
+.orden-title {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.orden-container {
+    position: relative;
+}
+
+.orden-text {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.orden-number {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.orden-btn-printer {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+th {
+    text-align: center;
+}
+
+.orden-total-pay {
+    text-align: right;
+}
+
+
+.bi-reply-fill {
+    font-size: 30px;
+}
+

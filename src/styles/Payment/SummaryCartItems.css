@@ -1,0 +1,21 @@
+.summaryItem-product {
+    display: flex;
+}
+
+.summaryItem-image {
+    width: 70px;
+    margin-right: 6px;
+}
+
+.summaryItem-title {
+    font-size: 15px;
+}
+
+.summaryItem-cantidad {
+    font-size: 13px;
+    color: blue;
+}
+
+.summaryItem-subTotal {
+    font-style: italic;
+}

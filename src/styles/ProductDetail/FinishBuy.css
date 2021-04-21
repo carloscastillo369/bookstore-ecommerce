@@ -1,0 +1,14 @@
+.btn-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-terminar-compra, .btn-seguir-comprando {
+    font-size: 20px;
+    width: 250px;
+}
+
+.btn-terminar-compra:hover, .btn-seguir-comprando:hover {
+    transition: 0.6s;
+}

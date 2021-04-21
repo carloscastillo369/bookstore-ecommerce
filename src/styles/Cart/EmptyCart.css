@@ -1,0 +1,18 @@
+.cart-empty {
+    margin-top: 81px;
+    text-align: center;
+    padding-top: 50px;
+    min-height: calc(100vh - 223px);
+}
+
+.cart-empty-text {
+    font-size: 40px;
+}
+
+.bi-cart-x {
+    font-size: 140px;
+}
+
+.cart-empty-go-home {
+    font-size: 20px;
+}

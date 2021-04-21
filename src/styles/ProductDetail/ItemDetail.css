@@ -1,0 +1,38 @@
+.itemdetail{
+    padding-top: 20px;
+}
+
+.itemdetail-image {
+    width: 550px;
+}
+
+.itemdetail-title {
+    font-size: 30px;
+}
+
+.itemdetail-stock {
+    font-size: 20px;
+}
+
+.itemdetail-price-text {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.itemdetail-price-number {
+    font-size: 30px;
+    font-weight: bold;
+    color: #E75353;
+    padding-left: 80px;
+}
+
+.itemdetail-description-list {
+    list-style: initial;
+    list-style-position: inside;
+    padding-top: 20px;
+}
+
+.itemdetail-description-item {
+    margin-left: 30px;
+}

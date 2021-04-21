@@ -1,0 +1,12 @@
+.category-card {
+    color: #000000;
+}
+
+.category-card:hover {
+    box-shadow: 0px 0px 10px 5px #00000026;
+    transition: 0.4s;
+}
+
+.card-title {
+    text-transform: capitalize;
+}

@@ -1,0 +1,31 @@
+.payment-summary {
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: 50px;
+    background: #adabab26;
+}
+
+.payment-summary-title {
+    font-size: 26px;
+}
+
+.payment-summary-qtyItems {
+    font-size: 20px;
+    color: blue;
+    font-style: italic;
+}
+
+.payment-summary-listItems {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.payment-summary-total {
+    margin-top: 20px;
+    font-style: normal;
+    text-align: right;
+}
+
+.payment-summary-price {
+    font-style: italic;
+}

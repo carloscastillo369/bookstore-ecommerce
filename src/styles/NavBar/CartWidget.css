@@ -1,0 +1,14 @@
+.qtyItems-cart {
+    min-width: 20px;
+    height: 20px;
+    font-size: 12px;
+    border-radius: 50%;
+    background: red;
+    color: #ffffff;
+    position: absolute;
+    top: 2px;
+    right: -2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
