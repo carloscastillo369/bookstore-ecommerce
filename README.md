@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-      <img src="/images/logo/logo.png" alt="" height="72">
+      <img src="/public/images/logo/logo.png" alt="" height="72">
   </p>
   <p align="center">
     E-Commerce BookStore
