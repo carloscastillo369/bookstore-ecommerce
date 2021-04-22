@@ -16,7 +16,7 @@ const Login = () => {
                     <Link to="/home"><img src={'/images/logo/logo.png'} alt=""/></Link>
                     <p className="login-text">Inicia sesión en BookStore o 
                         <Link onClick={resetError} to="/register">
-                            &nbsp;<span className="register-link">crea un cuenta</span> 
+                            &nbsp;<span className="register-link">crea una cuenta</span> 
                         </Link>
                     </p>
                     <LoginForm/>

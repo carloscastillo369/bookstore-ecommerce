@@ -6,7 +6,7 @@ import '../../styles/Payment/PaymentForm.css';
 
 const PaymentForm = ({sendData}) => {
     const {currentUser} = useContext(AuthContext);
-    const {register, handleSubmit, setValue, formState: {errors} } = useForm({mode: 'onBlur'});
+    const {register, handleSubmit, setValue, formState: {errors} } = useForm();
 
     if(currentUser.displayName !== null){
         const infoUser = currentUser.displayName.split(" ");

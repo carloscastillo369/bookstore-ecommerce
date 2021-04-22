@@ -7,7 +7,7 @@ import '../../styles/Register/RegisterForm.css'
 const RegisterForm = () => {
     const [typeInput, setTypeInput] = useState('password');
     const {createUser, error, resetError} = useContext(AuthContext);
-    const {register, handleSubmit, formState: {errors}, watch } = useForm({mode: 'onBlur'});
+    const {register, handleSubmit, formState: {errors}, watch } = useForm();
     const password = watch("password");
 
     const onSubmit = (data) => {

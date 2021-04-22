@@ -1,11 +1,12 @@
 .bg-light {
+    opacity: 1;
     background-color: #FFFFFF !important;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.149);
     transition: all 0.6s ease;
 }
 
 .bg-dark {
-    opacity: 80%;
+    opacity: 0.8;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.149);
     transition: all 0.6s ease;
 }

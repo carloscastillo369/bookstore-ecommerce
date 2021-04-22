@@ -7,7 +7,7 @@ import '../../styles/Login/LoginForm.css';
 const LoginForm = () => {
     const [typeInput, setTypeInput] = useState('password');
     const {signIn, signInWithGoogle, signInWithFacebook, error, resetError} = useContext(AuthContext);
-    const {register, handleSubmit, formState: {errors} } = useForm({mode: 'onBlur'});
+    const {register, handleSubmit, formState: {errors} } = useForm();
 
     const onSubmit = (data) => {
         signIn(data.email, data.password)

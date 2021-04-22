@@ -1,5 +1,6 @@
 .page-not-found {
     margin-top: 81px;
+    min-height: calc(100vh - 223px);
     display: flex;
     flex-direction: column;
     align-items: center;
