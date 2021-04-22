@@ -11,6 +11,10 @@
 
 _Es un e-commerce de una librería o bookstore, para realizar compras online de productos para la educación._
 
+## Demo
+
+![gif-ecommerce](https://user-images.githubusercontent.com/69721075/115676387-28423380-a315-11eb-9fdd-ac249914f8b6.gif)
+
 ## Comenzando 🚀
 
 _Para ver la navegabilidad de este proyecto puedes ingresar al siguiente enlace <https://elegant-volhard-51d912.netlify.app>._
